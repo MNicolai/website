@@ -2,6 +2,4 @@
 
 This is a really awesome website
 
-edit din nou
-
-update local
+Updates made on master on GitHub before rebase
